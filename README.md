@@ -46,7 +46,7 @@ I work extensively with **Python, PyTorch, TensorFlow, and cloud platforms (AWS,
 ---
 
 ## 🌐 Portfolio & Links  
-- [Portfolio Website]([https://thayaananthan.vercel.app](https://thayaa-portfolio.vercel.app/))  
+- [Portfolio Website](https://thayaa-portfolio.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/thayaa03/)  
 - [GitHub](https://github.com/Thayaa21)  
 - 📧 **thayaananthankangaraj@gmail.com**  
