@@ -1,40 +1,51 @@
- <h1 align="center">Hey there 👋, I'm Thayaananthan</h1>
-<h3 align="center">AI/ML Engineer | Data Scientist | Research Assistant @ ASU | Explorer of AI, AR & Human Potential</h3>
+<h1 align="center">Hey there, I'm Thayaananthan</h1>
+<h3 align="center">AI/ML Engineer & Data Scientist | Research Assistant @ ASU</h3>
 
 ---
 
-🎯 **About Me**
-- 🎓 Pursuing my **Master’s in Robotics & AI at Arizona State University**, with a focus on **AI/ML, GNNs, and intelligent systems**.  
-- 🔬 **Research Assistant @ ASU** — building **agent-based models into Graph Neural Network frameworks** for complex systems.  
-- 🤖 Experienced in **LLMs, Explainable AI, NLP, Computer Vision, and Multi-Agent Systems**, applying them to solve real-world problems.  
-- 🌍 Skilled in **leading globally distributed teams** and collaborating across time zones.  
-- 💻 Strong engineering foundation — I take projects from **concept → prototype → production-ready pipelines**.  
-- 🧠 Started my journey at **18** by building an AR brochure app that drove **real revenue**.  
-- ⚡ Fun Fact: I’m **ambidextrous**, excel at elite-level sports, and thrive on challenges that push both body and mind.  
+## About Me
+I am an AI/ML Engineer and Data Scientist passionate about building **scalable, high-impact AI systems** that bridge research and real-world applications.  
+I am currently pursuing a **Master’s in Robotics and Artificial Intelligence at Arizona State University**, where I also serve as a **Research Assistant**, working on **agent-based models extended into Graph Neural Network (GNN) frameworks** for analyzing complex systems.  
+
+My expertise spans **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Explainable AI, and Multi-Agent Systems**. I have extensive experience with **Python, PyTorch, TensorFlow, and cloud platforms (AWS, GCP)**, turning advanced AI concepts into production-ready solutions.  
 
 ---
 
-🚀 **Featured Projects**
-- 🎧 [**EchoShield**](https://github.com/Thayaa21/EchoSheid)  
-  Real-time **voice isolation** + **ambient-mode triggers** (sirens, wake words) for noisy environments.  
-
-- 📚 [**Knowledge Document Creation System**](https://github.com/Thayaa21)  
-  End-to-end AI pipeline for **PDF → structured knowledge**, integrating **Ollama (Llama 3.1)**, **citation mapping**, and **FAISS similarity search** with a **Streamlit UI**.  
-
-- 🔬 [**AR-Based E-Brochure (Unity + ML + Vuforia)**](https://github.com/Thayaa21/ar-e-brochure-vedicheritage)  
-  Real-world client project built at **18** that boosted property sales using **AR + ML-generated 3D terrain**.  
-
-- 💊 **Vian Analytics** *(MVP Completed, Future Pivot Planned)*  
-  AI platform for oncology drug repurposing — combining **multi-omics data, GNNs, and LLM-based reasoning agents**.  
-
-- 🌐 [**Portfolio Website**](https://thayaananthan.vercel.app)  
-  Futuristic **sci-fi themed** portfolio hosted on **Vercel**, featuring interactive animations and project showcases.  
+## How I Work
+- I approach problems with a mix of **research curiosity and engineering discipline**, ensuring solutions are both innovative and practical.  
+- I thrive in **dynamic, fast-paced environments**, where iteration and adaptability matter more than perfection.  
+- I believe in **clarity and scalability**: everything I build is meant to last and adapt as systems evolve.  
+- I’ve led and collaborated with **distributed teams across multiple time zones**, developing strong communication and leadership skills.  
+- I value **deep work, structured thinking, and ownership** — once I take on a problem, I see it through to the end.  
 
 ---
 
-🧰 **Tech Stack**
-```bash
-Languages:     Python • C++ • C# • JavaScript • SQL
-Frameworks:    PyTorch • TensorFlow • LangChain • FastAPI • Unity
-AI/ML:         LLM Agents • HuggingFace • FAISS • SciNCL • BioGPT • Scikit-learn • XAI
-Other Tools:   Git • Docker • AWS • GCP • GitHub Actions • Streamlit • Framer • Vercel
+## Fun Facts
+- I am **ambidextrous** — using my left hand for sports and right hand for academics.  
+- I started my tech journey at **18**, when I built an AR brochure application that generated real revenue.  
+- I’ve been involved in both **engineering and athletics**: I train at elite-level sports while also pushing myself intellectually.  
+- I enjoy exploring **frontiers where AI meets human potential** — from voice isolation systems to agent-based modeling of real-world interactions.  
+
+---
+
+## Core Values
+- **Discipline over motivation** — consistency creates results.  
+- **Simplicity in execution** — the best solutions are often the clearest and most efficient.  
+- **Relentless learning** — whether in AI, sports, or life, I’m always iterating and improving.  
+- **Collaboration with impact** — I work best when solving problems that matter with teams that care.  
+
+---
+
+## Current Focus
+- Expanding my expertise in **Graph Neural Networks** and **real-time ML applications**.  
+- Improving **data structures, algorithms, and system design skills** to prepare for top-tier engineering roles.  
+- Building projects that highlight my ability to deliver **end-to-end AI pipelines** — from ideation to deployment.  
+- Positioning myself for impactful AI roles in industry, particularly at companies where **scalability, innovation, and impact** intersect.  
+
+---
+
+## Portfolio & Links
+- [Portfolio Website](https://thayaananthan.vercel.app)  
+- [LinkedIn](https://www.linkedin.com/in/thayaa03/)  
+- [GitHub](https://github.com/Thayaa21)  
+- Email: **thayaananthankangaraj@gmail.com**  
